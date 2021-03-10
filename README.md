@@ -3,7 +3,7 @@ A Backend of Database system from scratch.
 # Link : 
 https://drive.google.com/drive/folders/1CxJe6yH3AxtJuRxvDQ1l4ZCwsMHsqTpc?usp=sharing
 
-* Link contains the game project.
+* Link contains project.
 * Screenshots
 
 # Screenshot : 
